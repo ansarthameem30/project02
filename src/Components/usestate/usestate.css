@@ -1,0 +1,29 @@
+.container
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  
+   
+}
+button
+{
+    display: flex;
+    flex-direction: row;
+}
+.button
+
+{
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+}
+.container-a
+{
+    margin-right: 5rem;
+}
+body
+{
+    background-color: beige;
+}
